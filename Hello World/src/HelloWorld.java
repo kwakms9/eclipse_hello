@@ -6,7 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello his world");
 		System.out.println("Hello your world");
 	
-		
 	}
 
 }
